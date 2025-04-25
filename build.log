@@ -1,0 +1,1119 @@
+[0/2] Re-checking globbed directories...
+[1/1423] Running rcc pass 1 for resource fonts_Tabulature
+[2/1423] Building CXX object src/engraving/CMakeFiles/rcc_object_fonts_Bravura.dir/qrc_fonts_Bravuratmp.cpp.o
+[3/1423] Running rcc pass 1 for resource fonts_FinaleBroadway
+[4/1423] Building CXX object src/engraving/CMakeFiles/rcc_object_fonts_Campania.dir/qrc_fonts_Campaniatmp.cpp.o
+[5/1423] Building CXX object src/engraving/CMakeFiles/rcc_object_fonts_Edwin.dir/qrc_fonts_Edwintmp.cpp.o
+[6/1423] Building CXX object src/engraving/CMakeFiles/rcc_object_fonts_FreeSans.dir/qrc_fonts_FreeSanstmp.cpp.o
+[7/1423] Building CXX object src/engraving/CMakeFiles/rcc_object_fonts_Gootville.dir/qrc_fonts_Gootvilletmp.cpp.o
+[8/1423] Building CXX object src/engraving/CMakeFiles/rcc_object_fonts_FreeSerif.dir/qrc_fonts_FreeSeriftmp.cpp.o
+[9/1423] Building CXX object src/engraving/CMakeFiles/rcc_object_fonts_MScore.dir/qrc_fonts_MScoretmp.cpp.o
+[10/1423] Running rcc pass 1 for resource fonts_MuseJazz
+[11/1423] Building CXX object src/engraving/CMakeFiles/rcc_object_fonts_Leland.dir/qrc_fonts_Lelandtmp.cpp.o
+[12/1423] Building CXX object src/engraving/CMakeFiles/rcc_object_fonts_FinaleBroadway.dir/qrc_fonts_FinaleBroadwaytmp.cpp.o
+[13/1423] Running rcc pass 1 for resource fonts_FinaleMaestro
+[14/1423] Building CXX object src/engraving/CMakeFiles/rcc_object_fonts_MuseJazz.dir/qrc_fonts_MuseJazztmp.cpp.o
+[15/1423] Building CXX object src/engraving/CMakeFiles/rcc_object_fonts_Tabulature.dir/qrc_fonts_Tabulaturetmp.cpp.o
+[16/1423] Building CXX object src/engraving/CMakeFiles/rcc_object_fonts_FinaleMaestro.dir/qrc_fonts_FinaleMaestrotmp.cpp.o
+[17/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/src/opus.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[18/1423] Running rcc pass 1 for resource fonts_Petaluma
+[19/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/src/opus_multistream.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[20/1423] Building CXX object src/engraving/CMakeFiles/rcc_object_fonts_Petaluma.dir/qrc_fonts_Petalumatmp.cpp.o
+[21/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/src/extensions.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[22/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/src/opus_multistream_decoder.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[23/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/src/opus_decoder.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[24/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/src/repacketizer.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[25/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/src/opus_projection_encoder.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[26/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/src/opus_projection_decoder.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[27/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/src/mapping_matrix.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[28/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/src/mlp_data.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[29/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/src/opus_multistream_encoder.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[30/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/src/mlp.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[31/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/code_signs.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[32/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/CNG.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[33/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/init_decoder.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[34/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/decode_frame.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[35/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/decode_core.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[36/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/decode_parameters.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[37/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/decode_indices.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[38/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/decoder_set_fs.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[39/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/decode_pulses.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[40/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/encode_indices.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[41/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/dec_API.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[42/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/enc_API.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[43/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/encode_pulses.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[44/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/src/analysis.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[45/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/gain_quant.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[46/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/interpolate.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[47/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/LP_variable_cutoff.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[48/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/NLSF_decode.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[49/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/src/opus_encoder.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[50/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/NSQ.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[51/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/shell_coder.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[52/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/tables_gain.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[53/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/PLC.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[54/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/tables_LTP.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[55/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/tables_NLSF_CB_NB_MB.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[56/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/tables_NLSF_CB_WB.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[57/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/tables_other.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[58/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/tables_pitch_lag.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[59/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/tables_pulses_per_block.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[60/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/control_audio_bandwidth.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[61/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/quant_LTP_gains.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[62/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/VQ_WMat_EC.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[63/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/VAD.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[64/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/HP_variable_cutoff.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[65/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/NLSF_encode.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[66/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/NLSF_VQ.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[67/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/NSQ_del_dec.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[68/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/NLSF_unpack.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[69/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/process_NLSFs.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[70/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/NLSF_del_dec_quant.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[71/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/stereo_MS_to_LR.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[72/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/check_control_input.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[73/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/stereo_LR_to_MS.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[74/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/control_SNR.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[75/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/init_encoder.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[76/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/ana_filt_bank_1.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[77/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/biquad_alt.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[78/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/bwexpander_32.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[79/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/control_codec.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[80/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/debug.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[81/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/bwexpander.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[82/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/A2NLSF.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[83/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/decode_pitch.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[84/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/inner_prod_aligned.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[85/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/lin2log.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[86/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/log2lin.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[87/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/table_LSF_cos.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[88/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/LPC_analysis_filter.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[89/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/LPC_inv_pred_gain.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[90/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/NLSF2A.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[91/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/NLSF_VQ_weights_laroia.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[92/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/NLSF_stabilize.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[93/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/pitch_est_tables.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[94/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/resampler.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[95/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/resampler_down2_3.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[96/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/resampler_private_AR2.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[97/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/resampler_down2.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[98/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/resampler_private_IIR_FIR.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[99/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/sigm_Q15.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[100/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/resampler_private_up2_HQ.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[101/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/resampler_rom.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[102/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/resampler_private_down_FIR.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[103/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/sort.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[104/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/sum_sqr_shift.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[105/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/stereo_decode_pred.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[106/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/stereo_encode_pred.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[107/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/stereo_find_predictor.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[108/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/stereo_quant_pred.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[109/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/LPC_fit.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[110/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/celt/celt.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[111/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/celt/entcode.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[112/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/celt/cwrs.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[113/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/celt/entdec.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[114/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/celt/entenc.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[115/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/celt/laplace.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[116/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/celt/mathops.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[117/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/celt/mdct.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[118/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/celt/modes.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[119/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/celt/kiss_fft.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[120/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/celt/celt_lpc.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[121/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/celt/pitch.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[122/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/celt/bands.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[123/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/celt/quant_bands.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[124/1423] Building CXX object src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx.o
+FAILED: src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx.o 
+/usr/bin/c++ -DKORS_LOGGER_QT_SUPPORT -DKORS_PROFILER_ENABLED -DMUE_BUILD_APPSHELL_MODULE -DMUE_BUILD_BRAILLE_MODULE -DMUE_BUILD_CONVERTER_MODULE -DMUE_BUILD_IMAGESEXPORT_MODULE -DMUE_BUILD_IMPORTEXPORT_MODULE -DMUE_BUILD_INSPECTOR_MODULE -DMUE_BUILD_INSTRUMENTSSCENE_MODULE -DMUE_BUILD_MUSESOUNDS_MODULE -DMUE_BUILD_NOTATION_MODULE -DMUE_BUILD_PALETTE_MODULE -DMUE_BUILD_PLAYBACK_MODULE -DMUE_BUILD_PROJECT_MODULE -DNDEBUG -DQT_CONCURRENT_LIB -DQT_CORE5COMPAT_LIB -DQT_CORE_LIB -DQT_DBUS_LIB -DQT_GUI_LIB -DQT_NETWORKAUTH_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_PRINTSUPPORT_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMETA_LIB -DQT_QMLMODELS_LIB -DQT_QMLWORKERSCRIPT_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICKTEMPLATES2_LIB -DQT_QUICKWIDGETS_LIB -DQT_QUICK_LIB -DQT_STATEMACHINE_LIB -DQT_SUPPORT -DQT_SVG_LIB -DQT_WIDGETS_LIB -DQT_XML_LIB -DSCRIPT_INTERFACE -Dmuse_global_QML_IMPORT=\"\" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/muse_global_autogen/include" -I/opt/homebrew/lib/QtDBus.framework/Headers -iframework /opt/homebrew/lib -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/build" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/src" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/framework" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/framework/global" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/framework/testing/thirdparty/googletest/googletest/include" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/testing/thirdparty/googletest/googletest/include" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/lib/QtNetwork.framework/Headers -isystem /opt/homebrew/lib/QtNetworkAuth.framework/Headers -isystem /opt/homebrew/lib/QtQml.framework/Headers -isystem /opt/homebrew/include/QtQmlIntegration -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtQuick.framework/Headers -isystem /opt/homebrew/lib/QtQmlMeta.framework/Headers -isystem /opt/homebrew/lib/QtQmlModels.framework/Headers -isystem /opt/homebrew/lib/QtQmlWorkerScript.framework/Headers -isystem /opt/homebrew/lib/QtOpenGL.framework/Headers -isystem /opt/homebrew/lib/QtQuickControls2.framework/Headers -isystem /opt/homebrew/lib/QtQuickTemplates2.framework/Headers -isystem /opt/homebrew/lib/QtQuickWidgets.framework/Headers -isystem /opt/homebrew/lib/QtXml.framework/Headers -isystem /opt/homebrew/lib/QtSvg.framework/Headers -isystem /opt/homebrew/lib/QtPrintSupport.framework/Headers -isystem /opt/homebrew/lib/QtCore5Compat.framework/Headers -isystem /opt/homebrew/lib/QtConcurrent.framework/Headers -isystem /opt/homebrew/lib/QtStateMachine.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -mmacosx-version-min=10.15 -O3 -DNDEBUG -std=gnu++17 -arch arm64 -mmacosx-version-min=10.14 -Wall -Wextra -MD -MT src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx.o -MF src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx.o.d -o src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx.o -c '/Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx'
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx:4:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/deprecated/xmlreader.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QFile:1:
+/opt/homebrew/lib/QtCore.framework/Headers/qfile.h:59:58: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   59 | inline QString fromFilesystemPath(const std::filesystem::path &path)
+      |                                                          ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx:4:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/deprecated/xmlreader.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QFile:1:
+/opt/homebrew/lib/QtCore.framework/Headers/qfile.h:64:40: error: 'native' is unavailable: introduced in macOS 10.15 unknown
+   64 |     return QString::fromStdString(path.native());
+      |                                        ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:670:44: note: 'native' has been explicitly marked unavailable here
+  670 |   _LIBCPP_HIDE_FROM_ABI const string_type& native() const noexcept { return __pn_; }
+      |                                            ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx:4:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/deprecated/xmlreader.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QFile:1:
+/opt/homebrew/lib/QtCore.framework/Headers/qfile.h:68:25: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   68 | inline std::filesystem::path toFilesystemPath(const QString &path)
+      |                         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx:4:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/deprecated/xmlreader.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QFile:1:
+/opt/homebrew/lib/QtCore.framework/Headers/qfile.h:70:29: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   70 |     return std::filesystem::path(reinterpret_cast<const char16_t *>(path.cbegin()),
+      |                             ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx:4:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/deprecated/xmlreader.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QFile:1:
+/opt/homebrew/lib/QtCore.framework/Headers/qfile.h:70:12: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   70 |     return std::filesystem::path(reinterpret_cast<const char16_t *>(path.cbegin()),
+      |            ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:418:25: note: 'path' has been explicitly marked unavailable here
+  418 |   _LIBCPP_HIDE_FROM_ABI path(_InputIt __first, _InputIt __last, format = format::auto_format) {
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx:4:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/deprecated/xmlreader.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QFile:1:
+/opt/homebrew/lib/QtCore.framework/Headers/qfile.h:70:12: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   70 |     return std::filesystem::path(reinterpret_cast<const char16_t *>(path.cbegin()),
+      |            ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:418:25: note: 'path' has been explicitly marked unavailable here
+  418 |   _LIBCPP_HIDE_FROM_ABI path(_InputIt __first, _InputIt __last, format = format::auto_format) {
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx:4:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/deprecated/xmlreader.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QFile:1:
+/opt/homebrew/lib/QtCore.framework/Headers/qfile.h:70:12: error: '~path' is unavailable: introduced in macOS 10.15 unknown
+   70 |     return std::filesystem::path(reinterpret_cast<const char16_t *>(path.cbegin()),
+      |            ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:434:25: note: '~path' has been explicitly marked unavailable here
+  434 |   _LIBCPP_HIDE_FROM_ABI ~path() = default;
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx:4:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/deprecated/xmlreader.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QFile:1:
+/opt/homebrew/lib/QtCore.framework/Headers/qfile.h:128:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  128 |     std::filesystem::path filesystemFileName() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx:4:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/deprecated/xmlreader.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QFile:1:
+/opt/homebrew/lib/QtCore.framework/Headers/qfile.h:190:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  190 |     std::filesystem::path filesystemSymLinkTarget() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx:4:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/deprecated/xmlreader.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QFile:1:
+/opt/homebrew/lib/QtCore.framework/Headers/qfile.h:195:29: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  195 |     static std::filesystem::path filesystemSymLinkTarget(const T &fileName)
+      |                             ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx:4:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/deprecated/xmlreader.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QFile:1:
+/opt/homebrew/lib/QtCore.framework/Headers/qfile.h:129:14: error: '~path' is unavailable: introduced in macOS 10.15 unknown
+  129 |     { return QtPrivate::toFilesystemPath(fileName()); }
+      |              ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:434:25: note: '~path' has been explicitly marked unavailable here
+  434 |   _LIBCPP_HIDE_FROM_ABI ~path() = default;
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx:4:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/deprecated/xmlreader.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QFile:1:
+/opt/homebrew/lib/QtCore.framework/Headers/qfile.h:192:16: error: '~path' is unavailable: introduced in macOS 10.15 unknown
+  192 |         return QtPrivate::toFilesystemPath(symLinkTarget());
+      |                ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:434:25: note: '~path' has been explicitly marked unavailable here
+  434 |   _LIBCPP_HIDE_FROM_ABI ~path() = default;
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx:10:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/deprecated/qzip.cpp:42:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:87:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   87 |     std::filesystem::path filesystemFilePath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx:10:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/deprecated/qzip.cpp:42:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:89:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   89 |     std::filesystem::path filesystemAbsoluteFilePath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx:10:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/deprecated/qzip.cpp:42:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:91:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   91 |     std::filesystem::path filesystemCanonicalFilePath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx:10:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/deprecated/qzip.cpp:42:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:105:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  105 |     std::filesystem::path filesystemPath() const { return QtPrivate::toFilesystemPath(path()); }
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx:10:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/deprecated/qzip.cpp:42:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:106:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  106 |     std::filesystem::path filesystemAbsolutePath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx:10:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/deprecated/qzip.cpp:42:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:108:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  108 |     std::filesystem::path filesystemCanonicalPath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_5_cxx.cxx:10:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/deprecated/qzip.cpp:42:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:139:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  139 |     std::filesystem::path filesystemSymLinkTarget() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+fatal error: too many errors emitted, stopping now [-ferror-limit=]
+20 errors generated.
+[125/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/celt/celt_decoder.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[126/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/silk/float/apply_sine_window_FLP.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[127/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/celt/vq.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[128/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/celt/rate.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[129/1423] Building C object src/framework/audio/opusenc/opus/CMakeFiles/opus.dir/celt/celt_encoder.c.o
+warning: unknown warning option '-Wno-truncate' [-Wunknown-warning-option]
+1 warning generated.
+[130/1423] Building CXX object src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx.o
+FAILED: src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx.o 
+/usr/bin/c++ -DKORS_LOGGER_QT_SUPPORT -DKORS_PROFILER_ENABLED -DMUE_BUILD_APPSHELL_MODULE -DMUE_BUILD_BRAILLE_MODULE -DMUE_BUILD_CONVERTER_MODULE -DMUE_BUILD_IMAGESEXPORT_MODULE -DMUE_BUILD_IMPORTEXPORT_MODULE -DMUE_BUILD_INSPECTOR_MODULE -DMUE_BUILD_INSTRUMENTSSCENE_MODULE -DMUE_BUILD_MUSESOUNDS_MODULE -DMUE_BUILD_NOTATION_MODULE -DMUE_BUILD_PALETTE_MODULE -DMUE_BUILD_PLAYBACK_MODULE -DMUE_BUILD_PROJECT_MODULE -DNDEBUG -DQT_CONCURRENT_LIB -DQT_CORE5COMPAT_LIB -DQT_CORE_LIB -DQT_DBUS_LIB -DQT_GUI_LIB -DQT_NETWORKAUTH_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_PRINTSUPPORT_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMETA_LIB -DQT_QMLMODELS_LIB -DQT_QMLWORKERSCRIPT_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICKTEMPLATES2_LIB -DQT_QUICKWIDGETS_LIB -DQT_QUICK_LIB -DQT_STATEMACHINE_LIB -DQT_SUPPORT -DQT_SVG_LIB -DQT_WIDGETS_LIB -DQT_XML_LIB -DSCRIPT_INTERFACE -Dmuse_global_QML_IMPORT=\"\" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/muse_global_autogen/include" -I/opt/homebrew/lib/QtDBus.framework/Headers -iframework /opt/homebrew/lib -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/build" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/src" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/framework" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/framework/global" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/framework/testing/thirdparty/googletest/googletest/include" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/testing/thirdparty/googletest/googletest/include" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/lib/QtNetwork.framework/Headers -isystem /opt/homebrew/lib/QtNetworkAuth.framework/Headers -isystem /opt/homebrew/lib/QtQml.framework/Headers -isystem /opt/homebrew/include/QtQmlIntegration -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtQuick.framework/Headers -isystem /opt/homebrew/lib/QtQmlMeta.framework/Headers -isystem /opt/homebrew/lib/QtQmlModels.framework/Headers -isystem /opt/homebrew/lib/QtQmlWorkerScript.framework/Headers -isystem /opt/homebrew/lib/QtOpenGL.framework/Headers -isystem /opt/homebrew/lib/QtQuickControls2.framework/Headers -isystem /opt/homebrew/lib/QtQuickTemplates2.framework/Headers -isystem /opt/homebrew/lib/QtQuickWidgets.framework/Headers -isystem /opt/homebrew/lib/QtXml.framework/Headers -isystem /opt/homebrew/lib/QtSvg.framework/Headers -isystem /opt/homebrew/lib/QtPrintSupport.framework/Headers -isystem /opt/homebrew/lib/QtCore5Compat.framework/Headers -isystem /opt/homebrew/lib/QtConcurrent.framework/Headers -isystem /opt/homebrew/lib/QtStateMachine.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -mmacosx-version-min=10.15 -O3 -DNDEBUG -std=gnu++17 -arch arm64 -mmacosx-version-min=10.14 -Wall -Wextra -MD -MT src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx.o -MF src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx.o.d -o src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx.o -c '/Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx'
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx:16:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/io/path.cpp:25:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:59:58: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   59 | inline QString fromFilesystemPath(const std::filesystem::path &path)
+      |                                                          ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx:16:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/io/path.cpp:25:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:64:40: error: 'native' is unavailable: introduced in macOS 10.15 unknown
+   64 |     return QString::fromStdString(path.native());
+      |                                        ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:670:44: note: 'native' has been explicitly marked unavailable here
+  670 |   _LIBCPP_HIDE_FROM_ABI const string_type& native() const noexcept { return __pn_; }
+      |                                            ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx:16:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/io/path.cpp:25:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:68:25: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   68 | inline std::filesystem::path toFilesystemPath(const QString &path)
+      |                         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx:16:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/io/path.cpp:25:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:70:29: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   70 |     return std::filesystem::path(reinterpret_cast<const char16_t *>(path.cbegin()),
+      |                             ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx:16:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/io/path.cpp:25:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:70:12: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   70 |     return std::filesystem::path(reinterpret_cast<const char16_t *>(path.cbegin()),
+      |            ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:418:25: note: 'path' has been explicitly marked unavailable here
+  418 |   _LIBCPP_HIDE_FROM_ABI path(_InputIt __first, _InputIt __last, format = format::auto_format) {
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx:16:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/io/path.cpp:25:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:70:12: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   70 |     return std::filesystem::path(reinterpret_cast<const char16_t *>(path.cbegin()),
+      |            ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:418:25: note: 'path' has been explicitly marked unavailable here
+  418 |   _LIBCPP_HIDE_FROM_ABI path(_InputIt __first, _InputIt __last, format = format::auto_format) {
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx:16:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/io/path.cpp:25:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:70:12: error: '~path' is unavailable: introduced in macOS 10.15 unknown
+   70 |     return std::filesystem::path(reinterpret_cast<const char16_t *>(path.cbegin()),
+      |            ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:434:25: note: '~path' has been explicitly marked unavailable here
+  434 |   _LIBCPP_HIDE_FROM_ABI ~path() = default;
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx:16:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/io/path.cpp:25:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:128:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  128 |     std::filesystem::path filesystemFileName() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx:16:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/io/path.cpp:25:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:190:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  190 |     std::filesystem::path filesystemSymLinkTarget() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx:16:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/io/path.cpp:25:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:195:29: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  195 |     static std::filesystem::path filesystemSymLinkTarget(const T &fileName)
+      |                             ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx:16:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/io/path.cpp:25:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:129:14: error: '~path' is unavailable: introduced in macOS 10.15 unknown
+  129 |     { return QtPrivate::toFilesystemPath(fileName()); }
+      |              ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:434:25: note: '~path' has been explicitly marked unavailable here
+  434 |   _LIBCPP_HIDE_FROM_ABI ~path() = default;
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx:16:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/io/path.cpp:25:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:192:16: error: '~path' is unavailable: introduced in macOS 10.15 unknown
+  192 |         return QtPrivate::toFilesystemPath(symLinkTarget());
+      |                ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:434:25: note: '~path' has been explicitly marked unavailable here
+  434 |   _LIBCPP_HIDE_FROM_ABI ~path() = default;
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx:16:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/io/path.cpp:25:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:87:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   87 |     std::filesystem::path filesystemFilePath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx:16:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/io/path.cpp:25:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:89:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   89 |     std::filesystem::path filesystemAbsoluteFilePath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx:16:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/io/path.cpp:25:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:91:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   91 |     std::filesystem::path filesystemCanonicalFilePath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx:16:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/io/path.cpp:25:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:105:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  105 |     std::filesystem::path filesystemPath() const { return QtPrivate::toFilesystemPath(path()); }
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx:16:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/io/path.cpp:25:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:106:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  106 |     std::filesystem::path filesystemAbsolutePath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx:16:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/io/path.cpp:25:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:108:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  108 |     std::filesystem::path filesystemCanonicalPath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_2_cxx.cxx:16:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/io/path.cpp:25:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:139:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  139 |     std::filesystem::path filesystemSymLinkTarget() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+fatal error: too many errors emitted, stopping now [-ferror-limit=]
+20 errors generated.
+[131/1423] Building CXX object src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx.o
+FAILED: src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx.o 
+/usr/bin/c++ -DKORS_LOGGER_QT_SUPPORT -DKORS_PROFILER_ENABLED -DMUE_BUILD_APPSHELL_MODULE -DMUE_BUILD_BRAILLE_MODULE -DMUE_BUILD_CONVERTER_MODULE -DMUE_BUILD_IMAGESEXPORT_MODULE -DMUE_BUILD_IMPORTEXPORT_MODULE -DMUE_BUILD_INSPECTOR_MODULE -DMUE_BUILD_INSTRUMENTSSCENE_MODULE -DMUE_BUILD_MUSESOUNDS_MODULE -DMUE_BUILD_NOTATION_MODULE -DMUE_BUILD_PALETTE_MODULE -DMUE_BUILD_PLAYBACK_MODULE -DMUE_BUILD_PROJECT_MODULE -DNDEBUG -DQT_CONCURRENT_LIB -DQT_CORE5COMPAT_LIB -DQT_CORE_LIB -DQT_DBUS_LIB -DQT_GUI_LIB -DQT_NETWORKAUTH_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_PRINTSUPPORT_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMETA_LIB -DQT_QMLMODELS_LIB -DQT_QMLWORKERSCRIPT_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICKTEMPLATES2_LIB -DQT_QUICKWIDGETS_LIB -DQT_QUICK_LIB -DQT_STATEMACHINE_LIB -DQT_SUPPORT -DQT_SVG_LIB -DQT_WIDGETS_LIB -DQT_XML_LIB -DSCRIPT_INTERFACE -Dmuse_global_QML_IMPORT=\"\" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/muse_global_autogen/include" -I/opt/homebrew/lib/QtDBus.framework/Headers -iframework /opt/homebrew/lib -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/build" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/src" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/framework" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/framework/global" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/framework/testing/thirdparty/googletest/googletest/include" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/testing/thirdparty/googletest/googletest/include" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/lib/QtNetwork.framework/Headers -isystem /opt/homebrew/lib/QtNetworkAuth.framework/Headers -isystem /opt/homebrew/lib/QtQml.framework/Headers -isystem /opt/homebrew/include/QtQmlIntegration -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtQuick.framework/Headers -isystem /opt/homebrew/lib/QtQmlMeta.framework/Headers -isystem /opt/homebrew/lib/QtQmlModels.framework/Headers -isystem /opt/homebrew/lib/QtQmlWorkerScript.framework/Headers -isystem /opt/homebrew/lib/QtOpenGL.framework/Headers -isystem /opt/homebrew/lib/QtQuickControls2.framework/Headers -isystem /opt/homebrew/lib/QtQuickTemplates2.framework/Headers -isystem /opt/homebrew/lib/QtQuickWidgets.framework/Headers -isystem /opt/homebrew/lib/QtXml.framework/Headers -isystem /opt/homebrew/lib/QtSvg.framework/Headers -isystem /opt/homebrew/lib/QtPrintSupport.framework/Headers -isystem /opt/homebrew/lib/QtCore5Compat.framework/Headers -isystem /opt/homebrew/lib/QtConcurrent.framework/Headers -isystem /opt/homebrew/lib/QtStateMachine.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -mmacosx-version-min=10.15 -O3 -DNDEBUG -std=gnu++17 -arch arm64 -mmacosx-version-min=10.14 -Wall -Wextra -MD -MT src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx.o -MF src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx.o.d -o src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx.o -c '/Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx'
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx:19:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/internal/globalconfiguration.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:59:58: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   59 | inline QString fromFilesystemPath(const std::filesystem::path &path)
+      |                                                          ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx:19:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/internal/globalconfiguration.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:64:40: error: 'native' is unavailable: introduced in macOS 10.15 unknown
+   64 |     return QString::fromStdString(path.native());
+      |                                        ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:670:44: note: 'native' has been explicitly marked unavailable here
+  670 |   _LIBCPP_HIDE_FROM_ABI const string_type& native() const noexcept { return __pn_; }
+      |                                            ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx:19:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/internal/globalconfiguration.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:68:25: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   68 | inline std::filesystem::path toFilesystemPath(const QString &path)
+      |                         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx:19:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/internal/globalconfiguration.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:70:29: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   70 |     return std::filesystem::path(reinterpret_cast<const char16_t *>(path.cbegin()),
+      |                             ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx:19:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/internal/globalconfiguration.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:70:12: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   70 |     return std::filesystem::path(reinterpret_cast<const char16_t *>(path.cbegin()),
+      |            ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:418:25: note: 'path' has been explicitly marked unavailable here
+  418 |   _LIBCPP_HIDE_FROM_ABI path(_InputIt __first, _InputIt __last, format = format::auto_format) {
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx:19:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/internal/globalconfiguration.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:70:12: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   70 |     return std::filesystem::path(reinterpret_cast<const char16_t *>(path.cbegin()),
+      |            ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:418:25: note: 'path' has been explicitly marked unavailable here
+  418 |   _LIBCPP_HIDE_FROM_ABI path(_InputIt __first, _InputIt __last, format = format::auto_format) {
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx:19:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/internal/globalconfiguration.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:70:12: error: '~path' is unavailable: introduced in macOS 10.15 unknown
+   70 |     return std::filesystem::path(reinterpret_cast<const char16_t *>(path.cbegin()),
+      |            ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:434:25: note: '~path' has been explicitly marked unavailable here
+  434 |   _LIBCPP_HIDE_FROM_ABI ~path() = default;
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx:19:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/internal/globalconfiguration.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:128:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  128 |     std::filesystem::path filesystemFileName() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx:19:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/internal/globalconfiguration.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:190:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  190 |     std::filesystem::path filesystemSymLinkTarget() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx:19:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/internal/globalconfiguration.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:195:29: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  195 |     static std::filesystem::path filesystemSymLinkTarget(const T &fileName)
+      |                             ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx:19:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/internal/globalconfiguration.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:129:14: error: '~path' is unavailable: introduced in macOS 10.15 unknown
+  129 |     { return QtPrivate::toFilesystemPath(fileName()); }
+      |              ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:434:25: note: '~path' has been explicitly marked unavailable here
+  434 |   _LIBCPP_HIDE_FROM_ABI ~path() = default;
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx:19:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/internal/globalconfiguration.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:192:16: error: '~path' is unavailable: introduced in macOS 10.15 unknown
+  192 |         return QtPrivate::toFilesystemPath(symLinkTarget());
+      |                ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:434:25: note: '~path' has been explicitly marked unavailable here
+  434 |   _LIBCPP_HIDE_FROM_ABI ~path() = default;
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx:19:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/internal/globalconfiguration.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:87:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   87 |     std::filesystem::path filesystemFilePath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx:19:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/internal/globalconfiguration.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:89:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   89 |     std::filesystem::path filesystemAbsoluteFilePath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx:19:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/internal/globalconfiguration.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:91:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   91 |     std::filesystem::path filesystemCanonicalFilePath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx:19:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/internal/globalconfiguration.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:105:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  105 |     std::filesystem::path filesystemPath() const { return QtPrivate::toFilesystemPath(path()); }
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx:19:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/internal/globalconfiguration.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:106:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  106 |     std::filesystem::path filesystemAbsolutePath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx:19:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/internal/globalconfiguration.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:108:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  108 |     std::filesystem::path filesystemCanonicalPath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_4_cxx.cxx:19:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/internal/globalconfiguration.cpp:26:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:139:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  139 |     std::filesystem::path filesystemSymLinkTarget() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+fatal error: too many errors emitted, stopping now [-ferror-limit=]
+20 errors generated.
+[132/1423] Building CXX object src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx.o
+FAILED: src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx.o 
+/usr/bin/c++ -DKORS_LOGGER_QT_SUPPORT -DKORS_PROFILER_ENABLED -DMUE_BUILD_APPSHELL_MODULE -DMUE_BUILD_BRAILLE_MODULE -DMUE_BUILD_CONVERTER_MODULE -DMUE_BUILD_IMAGESEXPORT_MODULE -DMUE_BUILD_IMPORTEXPORT_MODULE -DMUE_BUILD_INSPECTOR_MODULE -DMUE_BUILD_INSTRUMENTSSCENE_MODULE -DMUE_BUILD_MUSESOUNDS_MODULE -DMUE_BUILD_NOTATION_MODULE -DMUE_BUILD_PALETTE_MODULE -DMUE_BUILD_PLAYBACK_MODULE -DMUE_BUILD_PROJECT_MODULE -DNDEBUG -DQT_CONCURRENT_LIB -DQT_CORE5COMPAT_LIB -DQT_CORE_LIB -DQT_DBUS_LIB -DQT_GUI_LIB -DQT_NETWORKAUTH_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_PRINTSUPPORT_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMETA_LIB -DQT_QMLMODELS_LIB -DQT_QMLWORKERSCRIPT_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICKTEMPLATES2_LIB -DQT_QUICKWIDGETS_LIB -DQT_QUICK_LIB -DQT_STATEMACHINE_LIB -DQT_SUPPORT -DQT_SVG_LIB -DQT_WIDGETS_LIB -DQT_XML_LIB -DSCRIPT_INTERFACE -Dmuse_global_QML_IMPORT=\"\" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/muse_global_autogen/include" -I/opt/homebrew/lib/QtDBus.framework/Headers -iframework /opt/homebrew/lib -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/build" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/src" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/framework" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/framework/global" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/framework/testing/thirdparty/googletest/googletest/include" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework" -I"/Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/testing/thirdparty/googletest/googletest/include" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/lib/QtNetwork.framework/Headers -isystem /opt/homebrew/lib/QtNetworkAuth.framework/Headers -isystem /opt/homebrew/lib/QtQml.framework/Headers -isystem /opt/homebrew/include/QtQmlIntegration -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtQuick.framework/Headers -isystem /opt/homebrew/lib/QtQmlMeta.framework/Headers -isystem /opt/homebrew/lib/QtQmlModels.framework/Headers -isystem /opt/homebrew/lib/QtQmlWorkerScript.framework/Headers -isystem /opt/homebrew/lib/QtOpenGL.framework/Headers -isystem /opt/homebrew/lib/QtQuickControls2.framework/Headers -isystem /opt/homebrew/lib/QtQuickTemplates2.framework/Headers -isystem /opt/homebrew/lib/QtQuickWidgets.framework/Headers -isystem /opt/homebrew/lib/QtXml.framework/Headers -isystem /opt/homebrew/lib/QtSvg.framework/Headers -isystem /opt/homebrew/lib/QtPrintSupport.framework/Headers -isystem /opt/homebrew/lib/QtCore5Compat.framework/Headers -isystem /opt/homebrew/lib/QtConcurrent.framework/Headers -isystem /opt/homebrew/lib/QtStateMachine.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -mmacosx-version-min=10.15 -O3 -DNDEBUG -std=gnu++17 -arch arm64 -mmacosx-version-min=10.14 -Wall -Wextra -MD -MT src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx.o -MF src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx.o.d -o src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx.o -c '/Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx'
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx:31:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/settings.cpp:28:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:59:58: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   59 | inline QString fromFilesystemPath(const std::filesystem::path &path)
+      |                                                          ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx:31:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/settings.cpp:28:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:64:40: error: 'native' is unavailable: introduced in macOS 10.15 unknown
+   64 |     return QString::fromStdString(path.native());
+      |                                        ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:670:44: note: 'native' has been explicitly marked unavailable here
+  670 |   _LIBCPP_HIDE_FROM_ABI const string_type& native() const noexcept { return __pn_; }
+      |                                            ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx:31:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/settings.cpp:28:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:68:25: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   68 | inline std::filesystem::path toFilesystemPath(const QString &path)
+      |                         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx:31:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/settings.cpp:28:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:70:29: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   70 |     return std::filesystem::path(reinterpret_cast<const char16_t *>(path.cbegin()),
+      |                             ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx:31:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/settings.cpp:28:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:70:12: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   70 |     return std::filesystem::path(reinterpret_cast<const char16_t *>(path.cbegin()),
+      |            ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:418:25: note: 'path' has been explicitly marked unavailable here
+  418 |   _LIBCPP_HIDE_FROM_ABI path(_InputIt __first, _InputIt __last, format = format::auto_format) {
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx:31:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/settings.cpp:28:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:70:12: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   70 |     return std::filesystem::path(reinterpret_cast<const char16_t *>(path.cbegin()),
+      |            ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:418:25: note: 'path' has been explicitly marked unavailable here
+  418 |   _LIBCPP_HIDE_FROM_ABI path(_InputIt __first, _InputIt __last, format = format::auto_format) {
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx:31:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/settings.cpp:28:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:70:12: error: '~path' is unavailable: introduced in macOS 10.15 unknown
+   70 |     return std::filesystem::path(reinterpret_cast<const char16_t *>(path.cbegin()),
+      |            ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:434:25: note: '~path' has been explicitly marked unavailable here
+  434 |   _LIBCPP_HIDE_FROM_ABI ~path() = default;
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx:31:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/settings.cpp:28:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:128:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  128 |     std::filesystem::path filesystemFileName() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx:31:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/settings.cpp:28:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:190:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  190 |     std::filesystem::path filesystemSymLinkTarget() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx:31:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/settings.cpp:28:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:195:29: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  195 |     static std::filesystem::path filesystemSymLinkTarget(const T &fileName)
+      |                             ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx:31:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/settings.cpp:28:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:129:14: error: '~path' is unavailable: introduced in macOS 10.15 unknown
+  129 |     { return QtPrivate::toFilesystemPath(fileName()); }
+      |              ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:434:25: note: '~path' has been explicitly marked unavailable here
+  434 |   _LIBCPP_HIDE_FROM_ABI ~path() = default;
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx:31:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/settings.cpp:28:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:10:
+/opt/homebrew/include/QtCore/qfile.h:192:16: error: '~path' is unavailable: introduced in macOS 10.15 unknown
+  192 |         return QtPrivate::toFilesystemPath(symLinkTarget());
+      |                ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:434:25: note: '~path' has been explicitly marked unavailable here
+  434 |   _LIBCPP_HIDE_FROM_ABI ~path() = default;
+      |                         ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx:31:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/settings.cpp:28:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:87:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   87 |     std::filesystem::path filesystemFilePath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx:31:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/settings.cpp:28:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:89:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   89 |     std::filesystem::path filesystemAbsoluteFilePath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx:31:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/settings.cpp:28:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:91:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+   91 |     std::filesystem::path filesystemCanonicalFilePath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx:31:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/settings.cpp:28:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:105:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  105 |     std::filesystem::path filesystemPath() const { return QtPrivate::toFilesystemPath(path()); }
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx:31:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/settings.cpp:28:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:106:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  106 |     std::filesystem::path filesystemAbsolutePath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx:31:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/settings.cpp:28:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:108:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  108 |     std::filesystem::path filesystemCanonicalPath() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/build/src/framework/global/CMakeFiles/muse_global.dir/Unity/unity_3_cxx.cxx:31:
+In file included from /Volumes/External SSD/Dropbox/Dev/MuseScore/src/framework/global/settings.cpp:28:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/QDir:1:
+In file included from /opt/homebrew/lib/QtCore.framework/Headers/qdir.h:11:
+/opt/homebrew/include/QtCore/qfileinfo.h:139:22: error: 'path' is unavailable: introduced in macOS 10.15 unknown
+  139 |     std::filesystem::path filesystemSymLinkTarget() const
+      |                      ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path.h:382:33: note: 'path' has been explicitly marked unavailable here
+  382 | class _LIBCPP_EXPORTED_FROM_ABI path {
+      |                                 ^
+fatal error: too many errors emitted, stopping now [-ferror-limit=]
+20 errors generated.
+[133/1423] Automatic MOC and UIC for target kddockwidgets
+ninja: build stopped: subcommand failed.
