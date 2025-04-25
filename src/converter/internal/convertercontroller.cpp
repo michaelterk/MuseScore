@@ -278,7 +278,7 @@ RetVal<ConverterController::BatchJob> ConverterController::parseBatchJob(const m
             rv.val.push_back(std::move(job));
         } else if (outValue.isArray()) {
             const QJsonArray outArray = outValue.toArray();
-            for (const QJsonValueRef outItem : outArray) {
+            for (auto outItem : outArray) {
                 Job partJob = job; // Copy the input path
                 if (outItem.isString()) {
                     partJob.out = correctUserInputPath(outItem.toString());
