@@ -258,7 +258,7 @@ RetVal<ConverterController::BatchJob> ConverterController::parseBatchJob(const m
         return io::Dir::fromNativeSeparators(path).toQString();
     };
 
-    for (const QJsonValueRef obj : arr) {
+    for (QJsonValueConstRef obj : arr) {
         Job job;
         job.in = correctUserInputPath(obj[u"in"].toString());
 
